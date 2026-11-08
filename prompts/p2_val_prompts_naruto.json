@@ -1,0 +1,67 @@
+{
+  "dataset": "naruto",
+  "seed": 267,
+  "created_utc": "2026-11-08T03:10:12Z",
+  "prompts": [
+    {
+      "id": "V01",
+      "category": "train_caption",
+      "prompt": "a guy with a bandage on his face"
+    },
+    {
+      "id": "V02",
+      "category": "train_caption",
+      "prompt": "a person with blue hair and a hoodie"
+    },
+    {
+      "id": "V03",
+      "category": "train_caption",
+      "prompt": "a man with black hair and a brown coat"
+    },
+    {
+      "id": "V04",
+      "category": "train_caption",
+      "prompt": "a group of people in front of a mountain"
+    },
+    {
+      "id": "V05",
+      "category": "train_caption",
+      "prompt": "a man with long black hair and green eyes"
+    },
+    {
+      "id": "V06",
+      "category": "train_caption",
+      "prompt": "a young boy wearing go go go go go go go go go go go go go go go go go go go go go go go go go go go go go go go go go go go go go"
+    },
+    {
+      "id": "V07",
+      "category": "train_caption",
+      "prompt": "a woman with long brown hair and glasses"
+    },
+    {
+      "id": "V08",
+      "category": "train_caption",
+      "prompt": "a woman with white hair and a red tie"
+    },
+    {
+      "id": "V09",
+      "category": "out_of_domain",
+      "prompt": "a wooden boat on a calm lake at sunrise"
+    },
+    {
+      "id": "V10",
+      "category": "out_of_domain",
+      "prompt": "a cup of coffee on a desk next to a laptop"
+    },
+    {
+      "id": "V11",
+      "category": "compositional",
+      "prompt": "a girl in a yellow dress next to a boy in a green jacket"
+    },
+    {
+      "id": "V12",
+      "category": "compositional",
+      "prompt": "two cats, one black and one white, sitting on a bench"
+    }
+  ]
+}

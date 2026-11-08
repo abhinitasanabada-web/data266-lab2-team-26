@@ -1,0 +1,131 @@
+{
+  "dataset": "naruto",
+  "seed": 266,
+  "created_utc": "2026-11-08T03:10:11Z",
+  "seeds_per_prompt": [
+    0,
+    1
+  ],
+  "prompts": [
+    {
+      "id": "ID01",
+      "category": "in_domain",
+      "prompt": "a man with a hoodie and a hoodie",
+      "test_orig_idx": 111
+    },
+    {
+      "id": "ID02",
+      "category": "in_domain",
+      "prompt": "a man with a gun in his hand",
+      "test_orig_idx": 118
+    },
+    {
+      "id": "ID03",
+      "category": "in_domain",
+      "prompt": "a man in uniform with his hand on his head",
+      "test_orig_idx": 265
+    },
+    {
+      "id": "ID04",
+      "category": "in_domain",
+      "prompt": "a girl with glasses and a red shirt",
+      "test_orig_idx": 353
+    },
+    {
+      "id": "ID05",
+      "category": "in_domain",
+      "prompt": "a girl with red hair and a white headband",
+      "test_orig_idx": 437
+    },
+    {
+      "id": "ID06",
+      "category": "in_domain",
+      "prompt": "an anime character with a big smile on his face",
+      "test_orig_idx": 464
+    },
+    {
+      "id": "ID07",
+      "category": "in_domain",
+      "prompt": "a man with a baseball cap on his head",
+      "test_orig_idx": 612
+    },
+    {
+      "id": "ID08",
+      "category": "in_domain",
+      "prompt": "two people standing next to each other people",
+      "test_orig_idx": 724
+    },
+    {
+      "id": "ID09",
+      "category": "in_domain",
+      "prompt": "a man in a room with a clock",
+      "test_orig_idx": 920
+    },
+    {
+      "id": "ID10",
+      "category": "in_domain",
+      "prompt": "a boy and a girl in the woods",
+      "test_orig_idx": 1041
+    },
+    {
+      "id": "OD01",
+      "category": "out_of_domain",
+      "prompt": "a red sports car parked on a wet city street at night"
+    },
+    {
+      "id": "OD02",
+      "category": "out_of_domain",
+      "prompt": "a bowl of fresh fruit on a wooden kitchen table, studio photograph"
+    },
+    {
+      "id": "OD03",
+      "category": "out_of_domain",
+      "prompt": "a lighthouse on a rocky coast during a storm"
+    },
+    {
+      "id": "OD04",
+      "category": "out_of_domain",
+      "prompt": "an astronaut riding a horse on the moon"
+    },
+    {
+      "id": "OD05",
+      "category": "out_of_domain",
+      "prompt": "a modern glass skyscraper under a clear blue sky"
+    },
+    {
+      "id": "CP01",
+      "category": "compositional",
+      "prompt": "two characters, one in red and one in blue"
+    },
+    {
+      "id": "CP02",
+      "category": "compositional",
+      "prompt": "a boy with yellow hair standing next to a girl with pink hair"
+    },
+    {
+      "id": "CP03",
+      "category": "compositional",
+      "prompt": "a man with white hair holding a red umbrella and a blue book"
+    },
+    {
+      "id": "CP04",
+      "category": "compositional",
+      "prompt": "three ninjas standing in a row, the one in the middle wearing a green vest"
+    },
+    {
+      "id": "CP05",
+      "category": "compositional",
+      "prompt": "a girl with black hair sitting on top of a large orange fox"
+    }
+  ],
+  "grid_ids": [
+    "ID01",
+    "ID02",
+    "ID03",
+    "ID04",
+    "OD01",
+    "OD02",
+    "CP01",
+    "CP02"
+  ]
+}

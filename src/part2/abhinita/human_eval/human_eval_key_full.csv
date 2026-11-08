@@ -1,0 +1,26 @@
+pair_id,prompt_id,seed,prompt,left,right,final_run
+P01,OD05,0,a modern glass skyscraper under a clear blue sky,base,run1,run1
+P02,CP03,1,a man with white hair holding a red umbrella and a blue book,base,run1,run1
+P03,OD05,1,a modern glass skyscraper under a clear blue sky,base,run1,run1
+P04,ID03,0,a man in uniform with his hand on his head,base,run1,run1
+P05,OD03,1,a lighthouse on a rocky coast during a storm,run1,base,run1
+P06,OD04,0,an astronaut riding a horse on the moon,base,run1,run1
+P07,CP01,1,"two characters, one in red and one in blue",base,run1,run1
+P08,ID05,1,a girl with red hair and a white headband,run1,base,run1
+P09,CP02,1,a boy with yellow hair standing next to a girl with pink hair,base,run1,run1
+P10,OD04,1,an astronaut riding a horse on the moon,run1,base,run1
+P11,OD01,1,a red sports car parked on a wet city street at night,base,run1,run1
+P12,ID03,1,a man in uniform with his hand on his head,base,run1,run1
+P13,ID10,1,a boy and a girl in the woods,run1,base,run1
+P14,ID07,0,a man with a baseball cap on his head,run1,base,run1
+P15,OD02,1,"a bowl of fresh fruit on a wooden kitchen table, studio photograph",base,run1,run1
+P16,OD03,0,a lighthouse on a rocky coast during a storm,run1,base,run1
+P17,OD02,0,"a bowl of fresh fruit on a wooden kitchen table, studio photograph",run1,base,run1
+P18,ID09,1,a man in a room with a clock,run1,base,run1
+P19,ID08,1,two people standing next to each other people,base,run1,run1
+P20,ID04,1,a girl with glasses and a red shirt,base,run1,run1
+P21,CP02,0,a boy with yellow hair standing next to a girl with pink hair,run1,base,run1
+P22,ID04,0,a girl with glasses and a red shirt,base,run1,run1
+P23,ID06,1,an anime character with a big smile on his face,run1,base,run1
+P24,ID08,0,two people standing next to each other people,base,run1,run1
+P25,CP01,0,"two characters, one in red and one in blue",run1,base,run1
