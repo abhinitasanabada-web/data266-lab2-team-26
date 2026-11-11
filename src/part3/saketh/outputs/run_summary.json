@@ -1,0 +1,9 @@
+{
+  "selected_rank": 16,
+  "adapter_dir": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\lora_rank16",
+  "metrics_path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part3\\outputs\\metrics.json",
+  "trace_count": 7,
+  "result_image_count": 10,
+  "generation_result": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part3\\outputs\\result_46ee2d5a.png",
+  "generation_error": ""
+}
