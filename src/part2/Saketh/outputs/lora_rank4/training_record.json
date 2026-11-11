@@ -1,0 +1,12 @@
+{
+  "run": "lora_rank4",
+  "rank": 4,
+  "learning_rate": 0.0001,
+  "steps": 1000,
+  "batch_size": 1,
+  "trainable_parameters": 797184,
+  "training_seconds": 194.61542869987898,
+  "gpu_hours": 0.05405984130552194,
+  "peak_gpu_memory_gb": 6.641356468200684,
+  "adapter_path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\lora_rank4"
+}
