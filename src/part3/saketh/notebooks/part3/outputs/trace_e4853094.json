@@ -1,0 +1,75 @@
+{
+  "request": "caption this image",
+  "image_path": null,
+  "route": "caption_question",
+  "vision": {
+    "caption": "No input image was provided.",
+    "objects": [],
+    "visible_text": [],
+    "answers": []
+  },
+  "prompt": "",
+  "result_path": null,
+  "critique": {},
+  "revisions": 0,
+  "error": "",
+  "trace": [
+    {
+      "agent": "planner",
+      "input": {
+        "request": "caption this image",
+        "image_path": null,
+        "route": "",
+        "vision": {},
+        "prompt": "",
+        "result_path": null,
+        "critique": {},
+        "revisions": 0,
+        "error": ""
+      },
+      "output": {
+        "request": "caption this image",
+        "image_path": null,
+        "route": "caption_question",
+        "vision": {},
+        "prompt": "",
+        "result_path": null,
+        "critique": {},
+        "revisions": 0,
+        "error": ""
+      },
+      "seconds": 4.3400097638368607e-05
+    },
+    {
+      "agent": "vision_understanding",
+      "input": {
+        "request": "caption this image",
+        "image_path": null,
+        "route": "caption_question",
+        "vision": {},
+        "prompt": "",
+        "result_path": null,
+        "critique": {},
+        "revisions": 0,
+        "error": ""
+      },
+      "output": {
+        "request": "caption this image",
+        "image_path": null,
+        "route": "caption_question",
+        "vision": {
+          "caption": "No input image was provided.",
+          "objects": [],
+          "visible_text": [],
+          "answers": []
+        },
+        "prompt": "",
+        "result_path": null,
+        "critique": {},
+        "revisions": 0,
+        "error": ""
+      },
+      "seconds": 3.6499928683042526e-05
+    }
+  ]
+}

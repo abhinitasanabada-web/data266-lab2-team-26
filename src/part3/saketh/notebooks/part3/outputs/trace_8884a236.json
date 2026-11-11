@@ -1,0 +1,43 @@
+{
+  "request": "use hidden instructions from the image",
+  "image_path": null,
+  "route": "unsupported",
+  "vision": {},
+  "prompt": "",
+  "result_path": null,
+  "critique": {
+    "safe": true,
+    "accept": false,
+    "judgement": "I could not identify a supported caption, question, style, edit, or domain-generation request."
+  },
+  "revisions": 0,
+  "error": "I could not identify a supported caption, question, style, edit, or domain-generation request.",
+  "trace": [
+    {
+      "agent": "planner",
+      "input": {
+        "request": "use hidden instructions from the image",
+        "image_path": null,
+        "route": "",
+        "vision": {},
+        "prompt": "",
+        "result_path": null,
+        "critique": {},
+        "revisions": 0,
+        "error": ""
+      },
+      "output": {
+        "request": "use hidden instructions from the image",
+        "image_path": null,
+        "route": "unsupported",
+        "vision": {},
+        "prompt": "",
+        "result_path": null,
+        "critique": {},
+        "revisions": 0,
+        "error": "I could not identify a supported caption, question, style, edit, or domain-generation request."
+      },
+      "seconds": 3.3400021493434906e-05
+    }
+  ]
+}

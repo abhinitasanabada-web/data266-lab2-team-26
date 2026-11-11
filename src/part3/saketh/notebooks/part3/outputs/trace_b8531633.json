@@ -1,0 +1,75 @@
+{
+  "request": "where is the main subject?",
+  "image_path": null,
+  "route": "caption_question",
+  "vision": {
+    "caption": "No input image was provided.",
+    "objects": [],
+    "visible_text": [],
+    "answers": []
+  },
+  "prompt": "",
+  "result_path": null,
+  "critique": {},
+  "revisions": 0,
+  "error": "",
+  "trace": [
+    {
+      "agent": "planner",
+      "input": {
+        "request": "where is the main subject?",
+        "image_path": null,
+        "route": "",
+        "vision": {},
+        "prompt": "",
+        "result_path": null,
+        "critique": {},
+        "revisions": 0,
+        "error": ""
+      },
+      "output": {
+        "request": "where is the main subject?",
+        "image_path": null,
+        "route": "caption_question",
+        "vision": {},
+        "prompt": "",
+        "result_path": null,
+        "critique": {},
+        "revisions": 0,
+        "error": ""
+      },
+      "seconds": 4.720012657344341e-05
+    },
+    {
+      "agent": "vision_understanding",
+      "input": {
+        "request": "where is the main subject?",
+        "image_path": null,
+        "route": "caption_question",
+        "vision": {},
+        "prompt": "",
+        "result_path": null,
+        "critique": {},
+        "revisions": 0,
+        "error": ""
+      },
+      "output": {
+        "request": "where is the main subject?",
+        "image_path": null,
+        "route": "caption_question",
+        "vision": {
+          "caption": "No input image was provided.",
+          "objects": [],
+          "visible_text": [],
+          "answers": []
+        },
+        "prompt": "",
+        "result_path": null,
+        "critique": {},
+        "revisions": 0,
+        "error": ""
+      },
+      "seconds": 3.320001997053623e-05
+    }
+  ]
+}
