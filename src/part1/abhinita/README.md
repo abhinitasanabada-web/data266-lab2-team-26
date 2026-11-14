@@ -2,10 +2,7 @@
 
 ## Part 1 - Multimodal RAG over a read-only knowledge base
 
-Notebook: `notebooks/p1_rag_v7.ipynb` (tag `p1-v1.0`).
-
-Large files that are not in Git (our Colab/Kaggle work folders, caches and run outputs) are in our shared Google Drive folder,
-readable by anyone with the link: [Google Drive folder](https://drive.google.com/drive/folders/1fDg98VaLxSVqzOWTRfaUpnIwKjMPv7bA)
+Notebook: `notebooks/p1_rag_v7.ipynb` (tag `p1-v1.0`). Final Kaggle run: [kaggle.com/code/abhinitasanabada/p1-rag-v7](https://www.kaggle.com/code/abhinitasanabada/p1-rag-v7) (Tesla T4).
 
 > This README describes **v7, the final version** (v4, v5 and v6 are kept in `notebooks/` for comparison). The earlier v1 is kept in `v1/` with its own README ([`v1/README.md`](v1/README.md)).
 
@@ -131,5 +128,25 @@ No rule in v6 refers to a specific question: every change applies to all questio
   on our own golden set (Section 13), because the public leaderboard covers only part of the hidden test.
 - Figure readings are cached per model, so v6 readings are never mixed into a v7 run.
 - v7 installs transformers 5 (needed for Qwen3.5).
+
+### Final Kaggle run (the graded submission)
+The final `submission.csv` comes from the Kaggle notebook above, run with **Save & Run All** on a **Tesla T4**
+(commit `0cd3c08`, competition data attached, no manual step). It wrote all 40 answers after **50.1 minutes**
+(limit: 90). On the T4, reading the 26 charts takes most of the time, so the notebook's time guard skipped the second
+(zoomed) view of the charts. Compared with our earlier A100 run (public score 0.911), all 40 statuses and 28 of 40 answers are
+identical; 12 explanation answers are worded differently. Public score of the Kaggle run: [[fill in]].
+
+### Golden-set evaluation (Section 13, same Kaggle run)
+| Measurement | Baseline (dense only) | Final (v7) |
+|---|---|---|
+| Answer correctness (of 25) | 9/25 | 7/25 |
+| Retrieval Recall@5 | 0.875 | 0.917 |
+| Citation accuracy | 0.772 | 0.822 |
+| Median seconds per question | 16.9 | 20.4 |
+| Groundedness 1–5 (both raters) | — | [[after rating human_eval.csv]] |
+
+An answer counts as correct only if its status matches and every gold number is within ±1% (key phrases must appear
+verbatim). The final system retrieves and cites better, but it is not more often correct than the baseline on this strict
+check. We report this as measured and did not tune the system on the golden set.
 
 Only v7 is the graded submission. v1–v6 are kept to show how the system evolved.
