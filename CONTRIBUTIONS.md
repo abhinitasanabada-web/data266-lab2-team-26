@@ -29,16 +29,6 @@ Both members contributed to all three parts. The division below records the inde
 | Abhinita Sanabada | Developed the selected five-agent evaluation pipeline, critique-off/on comparison, red-team protocol, human rating/adjudication workflow, system card, and final report integration. |
 | Both | Reviewed agent routing, safety behavior, demo scenarios, limitations, and final system selection. |
 
-## Meeting and knowledge-transfer recordings
-
-The audited GitHub snapshot did not contain recording files or recording URLs. Add the real links before submitting this document. Do not invent or leave these entries blank in the final Canvas ZIP.
-
-| Date | Topic | Recording link |
-|---|---|---|
-| Add date | Part 1 architecture and retrieval trade-offs | Add actual shared link |
-| Add date | Part 2 training/evaluation and model selection | Add actual shared link |
-| Add date | Part 3 agents, safety, and demo flow | Add actual shared link |
-
 ## Verification
 
 This file describes repository evidence; it does not replace the required executed notebooks, evaluation outputs, or recordings.
