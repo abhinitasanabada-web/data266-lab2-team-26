@@ -15,13 +15,13 @@ Each part has its own README in its folder under `src/`, with the details of wha
 
 ## Final version of each part
 
-We each built our own version of every part and compared them. For every part, the final (submitted) version is Abhinita's:
+We each built our own version of every part and compared them. For every part, the final (submitted) version is Abhinita's. All three final notebooks, executed with all outputs, are in [`notebooks/final/`](https://github.com/abhinitasanabada-web/data266-lab2-team-26/tree/main/notebooks/final):
 
 | Part | Final notebook | Model | Run | Key results |
 |---|---|---|---|---|
-| 1 | [`notebooks/p1_rag.ipynb`](notebooks/p1_rag.ipynb) | Qwen3.5-9B (4-bit) reads charts and writes answers; bge-small-en-v1.5 + BM25 retrieval with bge-reranker-base | v7, Kaggle T4, commit `0cd3c08`, tag `p1-v1.0` | Public leaderboard 0.910 (submitted T4 run; 0.911 on the A100 development run); groundedness 3.74 / 5 |
-| 2 | [`notebooks/p2_finetune.ipynb`](notebooks/p2_finetune.ipynb) | Stable Diffusion 1.5 + LoRA rank 16 (Run 1), checkpoint `step_1000`, strength 1.0 | commit `a4a4ae6`, tag `p2-v1.0` | In-domain KID 0.1117 → 0.0087; raters preferred its style in 84% of judgements |
-| 3 | [`notebooks/p3_agents.ipynb`](notebooks/p3_agents.ipynb) | Qwen3.5-9B (same as Part 1), SD 1.5 img2img + our Part 2 LoRA, InstructPix2Pix, CLIP ViT-L/14 | v5, Colab T4, commit `4dc1418`, tag `p3-v1.0` | 11/15 scenarios passed, 0/10 attacks succeeded (both human-rated) |
+| 1 | [`notebooks/final/p1-rag-v7.ipynb`](notebooks/final/p1-rag-v7.ipynb) | Qwen3.5-9B (4-bit) reads charts and writes answers; bge-small-en-v1.5 + BM25 retrieval with bge-reranker-base | v7, Kaggle T4, commit `0cd3c08`, tag `p1-v1.0` | Public leaderboard 0.910 (submitted T4 run; 0.911 on the A100 development run); groundedness 3.74 / 5 |
+| 2 | [`notebooks/final/p2_finetune_v3.ipynb`](notebooks/final/p2_finetune_v3.ipynb) | Stable Diffusion 1.5 + LoRA rank 16 (Run 1), checkpoint `step_1000`, strength 1.0 | v3, Colab T4, commit `a277129`, tag `p2-v1.0` | In-domain KID 0.1117 → 0.0087; raters preferred its style in 84% of judgements |
+| 3 | [`notebooks/final/p3_agents_v5.ipynb`](notebooks/final/p3_agents_v5.ipynb) | Qwen3.5-9B (same as Part 1), SD 1.5 img2img + our Part 2 LoRA, InstructPix2Pix, CLIP ViT-L/14 | v5, Colab T4, commit `4dc1418`, tag `p3-v1.0` | 11/15 scenarios passed, 0/10 attacks succeeded (both human-rated) |
 
 Saketh's independent versions are in `src/partN/saketh/`; the report compares them with the final versions.
 
@@ -53,10 +53,14 @@ pipe.load_lora_weights("sanabada/data266-team26-p2-naruto-run1-lora-r16", subfol
 data266-lab2-team-26/
 ├── README.md          ← this overview
 ├── links.txt          ← repository, tag commits, Kaggle notebook, Hugging Face and Drive links
-├── notebooks/         ← our final notebook for each part (the best version, with all outputs)
-│   ├── p1_rag.ipynb
-│   ├── p2_finetune.ipynb
-│   └── p3_agents.ipynb
+├── notebooks/
+│   ├── final/         ← the final notebook of each part (executed, all outputs) — these are the ones we submit
+│   │   ├── p1-rag-v7.ipynb
+│   │   ├── p2_finetune_v3.ipynb
+│   │   └── p3_agents_v5.ipynb
+│   ├── abhinita/      ← copies of Abhinita's notebook versions
+│   ├── saketh/        ← Saketh's notebooks
+│   └── archive/       ← older runs
 ├── prompts/           ← Part 2 test and validation prompts
 ├── results/p3/        ← Part 3 result tables and rating key
 └── src/
@@ -72,4 +76,4 @@ data266-lab2-team-26/
 ```
 
 - **`src/`:** each of us works independently in our own folder for every part and keeps all our notebook versions there.
-- **`notebooks/`:** when we agree on the best version for a part, we put it here. These are the notebooks we submit.
+- **`notebooks/final/`:** when we agree on the best version for a part, we put it here. These are the notebooks we submit ([link](https://github.com/abhinitasanabada-web/data266-lab2-team-26/tree/main/notebooks/final)).
