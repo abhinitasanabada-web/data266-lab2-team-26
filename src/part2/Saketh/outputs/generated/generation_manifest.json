@@ -1,0 +1,1082 @@
+[
+  {
+    "model": "base",
+    "prompt": "a man with brown hair and green eyes",
+    "prompt_index": 0,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt00_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a man with brown hair and green eyes",
+    "prompt_index": 0,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt00_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a man with blonde hair and blue eyes",
+    "prompt_index": 1,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt01_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a man with blonde hair and blue eyes",
+    "prompt_index": 1,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt01_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a woman with green eyes and black hair",
+    "prompt_index": 2,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt02_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a woman with green eyes and black hair",
+    "prompt_index": 2,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt02_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a bird flying over a rocky mountain range",
+    "prompt_index": 3,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt03_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a bird flying over a rocky mountain range",
+    "prompt_index": 3,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt03_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a group of people in a field with one person holding a sword",
+    "prompt_index": 4,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt04_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a group of people in a field with one person holding a sword",
+    "prompt_index": 4,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt04_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a man with long hair and a brown jacket",
+    "prompt_index": 5,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt05_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a man with long hair and a brown jacket",
+    "prompt_index": 5,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt05_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a person with a green shirt and brown hair",
+    "prompt_index": 6,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt06_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a person with a green shirt and brown hair",
+    "prompt_index": 6,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt06_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a yellow pokemon with a blue shirt on",
+    "prompt_index": 7,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt07_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a yellow pokemon with a blue shirt on",
+    "prompt_index": 7,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt07_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "two people standing next to each other people",
+    "prompt_index": 8,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt08_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "two people standing next to each other people",
+    "prompt_index": 8,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt08_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a man with a camera in his hand",
+    "prompt_index": 9,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt09_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a man with a camera in his hand",
+    "prompt_index": 9,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt09_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a realistic red panda reading a newspaper in a city park",
+    "prompt_index": 10,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt10_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a realistic red panda reading a newspaper in a city park",
+    "prompt_index": 10,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt10_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a watercolor lighthouse during a thunderstorm",
+    "prompt_index": 11,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt11_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a watercolor lighthouse during a thunderstorm",
+    "prompt_index": 11,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt11_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a robot chef preparing pasta in a small kitchen",
+    "prompt_index": 12,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt12_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a robot chef preparing pasta in a small kitchen",
+    "prompt_index": 12,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt12_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a clay sculpture of a mountain village",
+    "prompt_index": 13,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt13_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a clay sculpture of a mountain village",
+    "prompt_index": 13,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt13_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a cinematic underwater research station",
+    "prompt_index": 14,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt14_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a cinematic underwater research station",
+    "prompt_index": 14,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt14_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "two characters, one in red and one in blue, standing side by side",
+    "prompt_index": 15,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt15_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "two characters, one in red and one in blue, standing side by side",
+    "prompt_index": 15,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt15_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "three characters sharing one umbrella in the rain",
+    "prompt_index": 16,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt16_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "three characters sharing one umbrella in the rain",
+    "prompt_index": 16,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt16_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a character holding a lantern beside a sleeping dragon",
+    "prompt_index": 17,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt17_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a character holding a lantern beside a sleeping dragon",
+    "prompt_index": 17,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt17_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "two characters racing bicycles through a colorful market",
+    "prompt_index": 18,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt18_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "two characters racing bicycles through a colorful market",
+    "prompt_index": 18,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt18_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a small character and a giant character comparing maps",
+    "prompt_index": 19,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt19_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "base",
+    "prompt": "a small character and a giant character comparing maps",
+    "prompt_index": 19,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\base_prompt19_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a man with brown hair and green eyes",
+    "prompt_index": 0,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt00_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a man with brown hair and green eyes",
+    "prompt_index": 0,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt00_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a man with blonde hair and blue eyes",
+    "prompt_index": 1,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt01_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a man with blonde hair and blue eyes",
+    "prompt_index": 1,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt01_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a woman with green eyes and black hair",
+    "prompt_index": 2,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt02_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a woman with green eyes and black hair",
+    "prompt_index": 2,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt02_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a bird flying over a rocky mountain range",
+    "prompt_index": 3,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt03_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a bird flying over a rocky mountain range",
+    "prompt_index": 3,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt03_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a group of people in a field with one person holding a sword",
+    "prompt_index": 4,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt04_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a group of people in a field with one person holding a sword",
+    "prompt_index": 4,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt04_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a man with long hair and a brown jacket",
+    "prompt_index": 5,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt05_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a man with long hair and a brown jacket",
+    "prompt_index": 5,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt05_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a person with a green shirt and brown hair",
+    "prompt_index": 6,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt06_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a person with a green shirt and brown hair",
+    "prompt_index": 6,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt06_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a yellow pokemon with a blue shirt on",
+    "prompt_index": 7,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt07_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a yellow pokemon with a blue shirt on",
+    "prompt_index": 7,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt07_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "two people standing next to each other people",
+    "prompt_index": 8,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt08_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "two people standing next to each other people",
+    "prompt_index": 8,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt08_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a man with a camera in his hand",
+    "prompt_index": 9,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt09_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a man with a camera in his hand",
+    "prompt_index": 9,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt09_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a realistic red panda reading a newspaper in a city park",
+    "prompt_index": 10,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt10_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a realistic red panda reading a newspaper in a city park",
+    "prompt_index": 10,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt10_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a watercolor lighthouse during a thunderstorm",
+    "prompt_index": 11,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt11_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a watercolor lighthouse during a thunderstorm",
+    "prompt_index": 11,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt11_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a robot chef preparing pasta in a small kitchen",
+    "prompt_index": 12,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt12_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a robot chef preparing pasta in a small kitchen",
+    "prompt_index": 12,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt12_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a clay sculpture of a mountain village",
+    "prompt_index": 13,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt13_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a clay sculpture of a mountain village",
+    "prompt_index": 13,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt13_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a cinematic underwater research station",
+    "prompt_index": 14,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt14_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a cinematic underwater research station",
+    "prompt_index": 14,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt14_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "two characters, one in red and one in blue, standing side by side",
+    "prompt_index": 15,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt15_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "two characters, one in red and one in blue, standing side by side",
+    "prompt_index": 15,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt15_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "three characters sharing one umbrella in the rain",
+    "prompt_index": 16,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt16_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "three characters sharing one umbrella in the rain",
+    "prompt_index": 16,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt16_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a character holding a lantern beside a sleeping dragon",
+    "prompt_index": 17,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt17_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a character holding a lantern beside a sleeping dragon",
+    "prompt_index": 17,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt17_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "two characters racing bicycles through a colorful market",
+    "prompt_index": 18,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt18_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "two characters racing bicycles through a colorful market",
+    "prompt_index": 18,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt18_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a small character and a giant character comparing maps",
+    "prompt_index": 19,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt19_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run1",
+    "prompt": "a small character and a giant character comparing maps",
+    "prompt_index": 19,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run1_prompt19_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a man with brown hair and green eyes",
+    "prompt_index": 0,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt00_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a man with brown hair and green eyes",
+    "prompt_index": 0,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt00_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a man with blonde hair and blue eyes",
+    "prompt_index": 1,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt01_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a man with blonde hair and blue eyes",
+    "prompt_index": 1,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt01_seed1.png",
+    "nsfw_flag": true
+  },
+  {
+    "model": "run2",
+    "prompt": "a woman with green eyes and black hair",
+    "prompt_index": 2,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt02_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a woman with green eyes and black hair",
+    "prompt_index": 2,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt02_seed1.png",
+    "nsfw_flag": true
+  },
+  {
+    "model": "run2",
+    "prompt": "a bird flying over a rocky mountain range",
+    "prompt_index": 3,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt03_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a bird flying over a rocky mountain range",
+    "prompt_index": 3,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt03_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a group of people in a field with one person holding a sword",
+    "prompt_index": 4,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt04_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a group of people in a field with one person holding a sword",
+    "prompt_index": 4,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt04_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a man with long hair and a brown jacket",
+    "prompt_index": 5,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt05_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a man with long hair and a brown jacket",
+    "prompt_index": 5,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt05_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a person with a green shirt and brown hair",
+    "prompt_index": 6,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt06_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a person with a green shirt and brown hair",
+    "prompt_index": 6,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt06_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a yellow pokemon with a blue shirt on",
+    "prompt_index": 7,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt07_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a yellow pokemon with a blue shirt on",
+    "prompt_index": 7,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt07_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "two people standing next to each other people",
+    "prompt_index": 8,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt08_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "two people standing next to each other people",
+    "prompt_index": 8,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt08_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a man with a camera in his hand",
+    "prompt_index": 9,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt09_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a man with a camera in his hand",
+    "prompt_index": 9,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt09_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a realistic red panda reading a newspaper in a city park",
+    "prompt_index": 10,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt10_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a realistic red panda reading a newspaper in a city park",
+    "prompt_index": 10,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt10_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a watercolor lighthouse during a thunderstorm",
+    "prompt_index": 11,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt11_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a watercolor lighthouse during a thunderstorm",
+    "prompt_index": 11,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt11_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a robot chef preparing pasta in a small kitchen",
+    "prompt_index": 12,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt12_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a robot chef preparing pasta in a small kitchen",
+    "prompt_index": 12,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt12_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a clay sculpture of a mountain village",
+    "prompt_index": 13,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt13_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a clay sculpture of a mountain village",
+    "prompt_index": 13,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt13_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a cinematic underwater research station",
+    "prompt_index": 14,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt14_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a cinematic underwater research station",
+    "prompt_index": 14,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt14_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "two characters, one in red and one in blue, standing side by side",
+    "prompt_index": 15,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt15_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "two characters, one in red and one in blue, standing side by side",
+    "prompt_index": 15,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt15_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "three characters sharing one umbrella in the rain",
+    "prompt_index": 16,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt16_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "three characters sharing one umbrella in the rain",
+    "prompt_index": 16,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt16_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a character holding a lantern beside a sleeping dragon",
+    "prompt_index": 17,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt17_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a character holding a lantern beside a sleeping dragon",
+    "prompt_index": 17,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt17_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "two characters racing bicycles through a colorful market",
+    "prompt_index": 18,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt18_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "two characters racing bicycles through a colorful market",
+    "prompt_index": 18,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt18_seed1.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a small character and a giant character comparing maps",
+    "prompt_index": 19,
+    "seed": 0,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt19_seed0.png",
+    "nsfw_flag": false
+  },
+  {
+    "model": "run2",
+    "prompt": "a small character and a giant character comparing maps",
+    "prompt_index": 19,
+    "seed": 1,
+    "steps": 30,
+    "path": "C:\\Users\\saketh1\\Desktop\\lab2_solution\\part2\\outputs\\generated\\run2_prompt19_seed1.png",
+    "nsfw_flag": false
+  }
+]
