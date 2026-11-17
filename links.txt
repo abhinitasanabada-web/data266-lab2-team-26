@@ -1,0 +1,30 @@
+Team: Pair_Programming_Team_26
+Members: Abhinita Sanabada (018320874), Saketh Prudhvi Marru (019160999)
+
+# GitHub
+Repository: https://github.com/abhinitasanabada-web/data266-lab2-team-26
+p1-v1.0 commit: d2fed3b88e353761e2b00dca63fb4aab9a7e9860
+p2-v1.0 commit: 847786e31ba8967c9b58cc9f6d5e37e9ca22d80c
+p3-v1.0 commit: d2fed3b88e353761e2b00dca63fb4aab9a7e9860
+
+# Kaggle (Part 1)
+Kaggle team name: Pair_Programming_Team_#26
+Final notebook: https://www.kaggle.com/code/abhinitasanabada/p1-rag-v7
+Notebook version used for final submission: 3
+
+# Hugging Face (Part 2)
+Hugging Face username: sanabada
+Repository visibility: All three Part 2 repositories verified public
+Model, run 1 (LoRA): https://huggingface.co/sanabada/data266-team26-p2-naruto-run1-lora-r16
+Model, run 2: https://huggingface.co/sanabada/data266-team26-p2-naruto-run2-dora-r16
+Generated images dataset: https://huggingface.co/datasets/sanabada/data266-team26-p2-naruto-generations
+Selected final adapter: Run 1 LoRA, checkpoint step_1000, strength 1.0
+
+# Hugging Face (Part 3)
+Input images dataset (optional): Not provided
+Space (optional, bonus): Not provided
+Part 3 final run outputs: https://drive.google.com/drive/folders/1fDg98VaLxSVqzOWTRfaUpnIwKjMPv7bA
+Part 3 human-evaluation HTML (73 items): https://drive.google.com/file/d/1m3_RBVW9RUcDc0CvoKuLWe5adBoLZfLl/view
+
+# Recordings
+Folder with meeting recordings (optional): Not provided
