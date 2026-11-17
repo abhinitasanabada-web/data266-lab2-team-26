@@ -29,6 +29,3 @@ Both members contributed to all three parts. The division below records the inde
 | Abhinita Sanabada | Developed the selected five-agent evaluation pipeline, critique-off/on comparison, red-team protocol, human rating/adjudication workflow, system card, and final report integration. |
 | Both | Reviewed agent routing, safety behavior, demo scenarios, limitations, and final system selection. |
 
-## Verification
-
-This file describes repository evidence; it does not replace the required executed notebooks, evaluation outputs, or recordings.
